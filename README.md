@@ -10,7 +10,7 @@ This is my PCB. I made it in KiCad.
 | Part        | Quantity    |
 | ----------- | ----------- |
 | Xiao RP2040 | x1          |
-| MX-Style Switches   | Text        |
+| MX-Style Switches   | x12        |
 
 <div align="center">
   <img src="https://github.com/ichewradon/hackpad-v1/blob/main/assets/logo.svg">
