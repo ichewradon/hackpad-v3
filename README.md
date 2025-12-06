@@ -11,6 +11,7 @@ This is my PCB. I made it in KiCad.
 |:---|---:|
 |Seeed XIAO RP2040|x1|
 |MX-Style Switches|x12|
+|Blank White DSA Keycaps|x12|
 |EC11 Rotary Encoder|x1|
 |1N4148 Diodes|x12|
 |SK6812 MINI-E LEDs|x12|
