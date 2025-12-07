@@ -3,8 +3,8 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 
 ## Features:
 - 12 SK6812 MINI-E LEDs for dynamic LED effects
-  - Rainbow
-  - Gradient
+  - Rainbow / Custom Gradient
+  - Music Reactive
   - Static Colour
 - 1 EC11 Rotary Encoder to control volume with a custom printed dial
 - 12 Individually Addressable Keys
