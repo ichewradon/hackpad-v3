@@ -16,13 +16,16 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 This is my CAD Model I made in Fusion360
 
 ## PCB (Printed Circuit Board)
-This is my PCB, I designed it in KiCad. I'm going to have it made in black as some of it will be visible in my case. 
 
-![PCB](/assets/PCB.png)
+Here's my PCB. It was made in KiCad. The silkscreen was imported from separate vectors that are in /assets/logos.
 
-This is my Schematics.
+Schematic:
 
 ![Schemeatics](/assets/Schematics.png)
+
+PCB:
+
+![PCB](/assets/PCB.png)
 
 ## BoM (Build of Materials)
 - 12x MX-Style Switches
