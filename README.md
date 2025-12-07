@@ -1,4 +1,4 @@
-![Project Names](/assets/logos/projectname.svg)
+# ![Project Names](/assets/logos/projectname.svg)
 
 My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 
@@ -11,13 +11,15 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 - 12 Individually Addressable Keys
 - [KMK Firmware](https://github.com/kmkfw/kmk_firmware) to allow for web-app control and memory after restart
 
+## Overview
+
+This is my hackpad in Fusion360 showing how it's assembled. 
+
+![Overview of my hackpad assembled](/assets/casepcb.png)
+
 ## Case Model
 
 This is my Case Model I made in Fusion360
-
-Full Case with PCB:
-
-![Case with PCB](/assets/casepcb.png)
 
 Bottom side:
 
