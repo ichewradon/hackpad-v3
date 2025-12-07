@@ -9,9 +9,9 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
   ## BOM
   - 12x MX-Style Switches
   - 12x DSA Keycaps
-  - 12x 1N4148 Diodes.
-  - 1x  EC11 Rotary Encoder
-  - 1x  Seeed XIAO RP2040
+  - 12x 1N4148 Diodes
+  - 1x EC11 Rotary Encoder
+  - 1x Seeed XIAO RP2040
 
 <div align="center">
   <img src="/assets/logo.svg">
