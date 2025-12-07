@@ -44,7 +44,7 @@ PCB:
 - 12x DSA Keycaps
 - 1x EC11 Rotary Encoder
 - 12x 1N4148 Diodes
-- 12x SK6812 MINI-E LEDs
+- 11x SK6812 MINI-E LEDs
 - 1x Seeed XIAO RP2040
 
 <div align="center">
