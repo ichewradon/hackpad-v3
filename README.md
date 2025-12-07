@@ -7,7 +7,8 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
   - Gradient
   - Static Colour
 - 1 EC11 Rotary Encoder to control volume with a custom printed dial
-- 12 Individually Addressable Keys that can be changed with the web-app
+- 12 Individually Addressable Keys
+- [KMK Firmware](https://github.com/kmkfw/kmk_firmware) to allow for web-app control and memory after restart
 
 ## PCB
 This is my PCB, I designed it in KiCad. I'm going to have it made in black as some of it will be visible in my case. 
