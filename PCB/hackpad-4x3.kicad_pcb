@@ -15358,7 +15358,7 @@
 			)
 		)
 	)
-	(gr_text "ichewradon's hackpad v3"
+	(gr_text "ichewradon's hackpad v1"
 		(at 120.904 114 0)
 		(layer "F.SilkS")
 		(uuid "e16bca4f-5e7c-47c1-b606-51ac9dd2ea15")
@@ -15370,7 +15370,7 @@
 			)
 			(justify left bottom)
 		)
-		(render_cache "ichewradon's hackpad v3" 0
+		(render_cache "ichewradon's hackpad v1" 0
 			(polygon
 				(pts
 					(xy 121.18958 113.83) (xy 121.18958 113.142212) (xy 121.003345 113.142212) (xy 121.003345 113.83)
