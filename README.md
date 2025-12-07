@@ -1,4 +1,4 @@
-![Project Names](/assets/Logos/projectname.svg)
+![Project Names](/assets/logos/projectname.svg)
 
 My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 
@@ -11,7 +11,7 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 - 12 Individually Addressable Keys
 - [KMK Firmware](https://github.com/kmkfw/kmk_firmware) to allow for web-app control and memory after restart
 
-## PCB
+## PCB (Printed Circuit Board)
 This is my PCB, I designed it in KiCad. I'm going to have it made in black as some of it will be visible in my case. 
 
 ![PCB](/assets/PCB.png)
@@ -20,7 +20,7 @@ This is my Schematics.
 
 ![Schemeatics](/assets/Schematics.png)
 
-## BOM
+## BoM (Build of Materials)
 - 12x MX-Style Switches
 - 12x DSA Keycaps
 - 1x EC11 Rotary Encoder
@@ -29,5 +29,5 @@ This is my Schematics.
 - 1x Seeed XIAO RP2040
 
 <div align="center">
-  <img src="/assets/Logos/logo.svg">
+  <img src="/assets/logos/logo.svg">
 </div>
