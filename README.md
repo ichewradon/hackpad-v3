@@ -39,7 +39,7 @@ PCB:
 
 ![PCB](/assets/PCB.png)
 
-## BoM (Build of Materials)
+## BoM (Bill of Materials)
 - 12x MX-Style Switches
 - 12x DSA Keycaps
 - 1x EC11 Rotary Encoder
