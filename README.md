@@ -11,9 +11,20 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 - 12 Individually Addressable Keys
 - [KMK Firmware](https://github.com/kmkfw/kmk_firmware) to allow for web-app control and memory after restart
 
-## CAD Model
+## Case Model
 
-This is my CAD Model I made in Fusion360
+This is my Case Model I made in Fusion360
+
+Full Case with PCB:
+
+![Case with PCB](/assets/casepcb.png)
+
+Bottom side:
+
+![Bottom of Case](/assets/casebottom.png)
+
+Diffuser:
+![Case with PCB](/assets/casediffuser.png)
 
 ## PCB (Printed Circuit Board)
 
