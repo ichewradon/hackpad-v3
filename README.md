@@ -2,7 +2,7 @@
 My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 
 ## Features:
-- 12 SK6812 MINI-E LEDs for dynamic LED effects with a printed diffuser for smooth light
+- 12 SK6812 MINI-E LEDs for dynamic LED effects
   - Rainbow
   - Gradient
   - Static Colour
