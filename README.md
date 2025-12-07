@@ -9,8 +9,9 @@ This is my PCB, I designed it in KiCad. I'm going to have it made in black as so
 ## BOM
 - 12x MX-Style Switches
 - 12x DSA Keycaps
-- 12x 1N4148 Diodes
 - 1x EC11 Rotary Encoder
+- 12x 1N4148 Diodes
+- 12x SK6812 MINI-E LEDs
 - 1x Seeed XIAO RP2040
 
 <div align="center">
