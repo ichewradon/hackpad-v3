@@ -11,7 +11,7 @@ This is my PCB, I designed it in KiCad. I'm going to have it made in black as so
 - 12x DSA Keycaps
 - 12x 1N4148 Diodes
 - 1x EC11 Rotary Encoder
-  - 1x Seeed XIAO RP2040
+- 1x Seeed XIAO RP2040
 
 <div align="center">
   <img src="/assets/logo.svg">
