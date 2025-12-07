@@ -1,6 +1,14 @@
 # hackpad-v1
 My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 
+## Features:
+- 12 SK6812 MINI-E LEDs for dynamic LED effects
+  - Rainbow
+  - Gradient
+  - Static Colour
+- 1 EC11 Rotary Encoder to control volume or other things
+- 12 Individually Addressable Keys that can be changed whenever
+
 ## PCB
 This is my PCB, I designed it in KiCad. I'm going to have it made in black as some of it will be visible in my case. 
 
