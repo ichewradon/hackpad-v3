@@ -7,15 +7,12 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
   ![PCB](https://github.com/ichewradon/hackpad-v1/blob/main/assets/PCB.png)
 
   ## BOM
-  |Part|Quantity|
-  |:---|---:|
-  |Seeed XIAO RP2040|x1|
-  |MX-Style Switches|x12|
-  |Blank White DSA Keycaps|x12|
-  |EC11 Rotary Encoder|x1|
-  |1N4148 Diodes|x12|
-  |SK6812 MINI-E LEDs|x12|
+  - 12x MX-Style Switches
+  - 12x DSA Keycaps
+  - 12x 1N4148 Diodes.
+  - 1x  EC11 Rotary Encoder
+  - 1x  Seeed XIAO RP2040
 
 <div align="center">
-  <img src="https://github.com/ichewradon/hackpad-v1/blob/main/assets/logo.svg">
+  <img src="/assets/logo.svg">
 </div>
