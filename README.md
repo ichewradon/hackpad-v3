@@ -24,6 +24,7 @@ Bottom side:
 ![Bottom of Case](/assets/casebottom.png)
 
 Diffuser:
+
 ![Case with PCB](/assets/casediffuser.png)
 
 ## PCB (Printed Circuit Board)
