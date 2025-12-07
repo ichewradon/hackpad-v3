@@ -13,7 +13,11 @@ My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 ## PCB
 This is my PCB, I designed it in KiCad. I'm going to have it made in black as some of it will be visible in my case. 
 
-![PCB](https://github.com/ichewradon/hackpad-v1/blob/main/assets/PCB.png)
+![PCB](/assets/PCB.png)
+
+This is my Schematics.
+
+![Schemeatics](/assets/Schematics.png)
 
 ## BOM
 - 12x MX-Style Switches
