@@ -29,5 +29,5 @@ This is my Schematics.
 - 1x Seeed XIAO RP2040
 
 <div align="center">
-  <img src="/assets/logo.svg">
+  <img src="/assets/Logos/logo.svg">
 </div>
