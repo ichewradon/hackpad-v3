@@ -1,4 +1,4 @@
-# hackpad-v1
+# hackpad-v3
 My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 
 ## Features:
