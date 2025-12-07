@@ -1,4 +1,4 @@
-![Project Names](/assets/logos/projectname.svg)
+![Project Names](/assets/Logos/projectname.svg)
 My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
 
 ## Features:
